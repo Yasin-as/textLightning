@@ -22,7 +22,7 @@ ul li{
     color: #484848;
     text-shadow: 0 0 15px;
     font-size: 180px;
-    animation: light 1s ease-in-out infinite;
+    animation: light 1s linear infinite;
 }
 
 
